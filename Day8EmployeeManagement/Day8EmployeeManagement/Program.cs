@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             //Console.WriteLine("Welcome to Day8 EmployeeManagement");
-            UC1EmployeeAttendance.Attandance();
+            //UC1EmployeeAttendance.Attandance();
+            UC2DailyWage.Empdailywage();
         }
     }
 }
