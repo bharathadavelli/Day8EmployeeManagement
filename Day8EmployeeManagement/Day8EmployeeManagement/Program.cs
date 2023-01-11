@@ -8,7 +8,8 @@
             //UC1EmployeeAttendance.Attandance();
             //UC2DailyWage.Empdailywage();
             //UC3Parttime.parttime();
-            UC4Usingswitchcase.switchcase();
+            //UC4Usingswitchcase.switchcase();
+            UC5Empwagefor20workingdays.empwage();
         }
     }
 }
