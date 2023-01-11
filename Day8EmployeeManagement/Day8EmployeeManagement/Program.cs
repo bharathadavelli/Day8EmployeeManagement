@@ -6,7 +6,8 @@
         {
             //Console.WriteLine("Welcome to Day8 EmployeeManagement");
             //UC1EmployeeAttendance.Attandance();
-            UC2DailyWage.Empdailywage();
+            //UC2DailyWage.Empdailywage();
+            UC3Parttime.parttime();
         }
     }
 }
